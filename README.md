@@ -9,3 +9,5 @@ This is a project that detects if rectangles intersects each other by calculatin
 You can use also function called [getSnapped()] in order to snap rectangles each other when they come close enough.
 
 First select target rectangle by clicking on it, and then drag any other rectangle onto target rectangle
+
+![alt text](http://umitunal.org/wp-content/github/intersecting-rectangles.PNG)
