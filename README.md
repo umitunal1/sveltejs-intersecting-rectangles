@@ -10,4 +10,7 @@ You can use also function called [getSnapped()] in order to snap rectangles each
 
 First select target rectangle by clicking on it, and then drag any other rectangle onto target rectangle
 
-![alt text](http://umitunal.org/wp-content/github/intersecting-rectangles.PNG)
+![alt text](http://umitunal.org/wp-content/github/intersecting1.PNG)
+![alt text](http://umitunal.org/wp-content/github/intersecting2.PNG)
+![alt text](http://umitunal.org/wp-content/github/intersecting3.PNG)
+![alt text](http://umitunal.org/wp-content/github/intersecting4.PNG)
