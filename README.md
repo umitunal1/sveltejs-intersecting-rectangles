@@ -6,4 +6,4 @@
 
 This is a project that detects if rectangles intersects each other by calculating each line segment of rectangles 
 
-You can use also function called getSnapped() in order to snap rectangles each other when they come close enough.
+You can use also function called [getSnapped()] in order to snap rectangles each other when they come close enough.
